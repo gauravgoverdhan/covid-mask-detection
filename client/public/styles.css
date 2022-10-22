@@ -1,0 +1,65 @@
+body {
+    background-color: #E8ECEF;
+    padding-top: 20px;
+}
+
+.home-page {
+    text-align: center;
+    padding-top: 200px;
+}
+
+.btn {
+    margin: 5px 10px;
+}
+
+.buttons {
+    padding-right: 5em;
+}
+
+#admin-heading {
+    padding-left: 3px;
+}
+
+.card {
+    border-radius: 0.5rem;
+}
+
+.card-body .btn {
+    margin: 0;
+}
+
+.mask-detection {
+    text-align: center;
+}
+
+.display-5 {
+    font-weight: 300;
+}
+
+.true {
+    float: right;
+    max-width: 60%;
+    height: auto;
+}
+
+.false {
+    float: left;
+    max-width: 60%;
+    height: auto;
+}
+
+.logs {
+    text-align: center;
+}
+
+.success {
+    color: rgb(0, 139, 0);
+}
+
+.fail {
+    color: rgb(200, 0, 0);
+}
+
+h3 {
+    margin: 12px;
+}
